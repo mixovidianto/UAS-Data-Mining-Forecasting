@@ -46,8 +46,8 @@ Forecasting (Peramalan)
 ---
 
 ### Links
-- 🌐 **Website Portofolio** : [Link Google Sites]
-- 🎥 **Video Presentasi**   : [Link YouTube]
+- 🌐 **Website Portofolio** : https://sites.google.com/view/datascienceportofolio/uas-mixo-vidianto
+- 🎥 **Video Presentasi**   : https://youtu.be/f2jSFNEYc4Q
 
 ---
 
