@@ -28,7 +28,7 @@ Forecasting (Peramalan)
 - **Jumlah** : ±100.000 baris transaksi
 - **Periode**: Desember 2009 – Desember 2010
 - **Negara** : 34 negara
-- **Sumber** : [Link Dataset]
+- **Sumber** : https://www.kaggle.com/datasets/algozee/multi-source-data-for-e-commerce-sales-prediction
 
 ---
 
